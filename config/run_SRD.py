@@ -26,7 +26,7 @@ if __name__ == '__main__':
     create_dir('./pre_train_model')
     config_path = os.path.join(checkpoints_path, 'config.yml')
 
-    # pre_train (no data augmentation)
+    # pre_train (data augmentation)
     MODE = 0
     print('\nmode-'+str(MODE)+': start pre_training(data augmentation)...\n')
     for i in range(1):
