@@ -29,7 +29,7 @@
 [Hieu Le](https://openaccess.thecvf.com/content_ICCV_2019/papers/Le_Shadow_Removal_via_Shadow_Image_Decomposition_ICCV_2019_paper.pdf) reuploaded the [evaluation code](https://github.com/cvlab-stonybrook/SID). Before that, everyone can obtain this code from [Jifeng Wang](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Stacked_Conditional_Generative_CVPR_2018_paper.pdf) via email. Currently, the MATLAB code is used in most state-of-the-art works for shadow removal. 
 
 # 2. Environments
-**ubuntu18.04+cuda10.2+pytorch1.7.0**
+**ubuntu18.04+cuda10.2+pytorch1.7.1**
 1. create environments
 ```
 conda env create -f install.yaml
