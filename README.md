@@ -34,7 +34,7 @@ The manuscript is under peer review...
 2. PSNR+SSIM. [zhu_aaai2022](https://github.com/zhuyr97/AAAI2022_Unfolding_Network_Shadow_Removal)
 
 # 2. Environments
-**ubuntu18.04+cuda10.2+pytorch1.7.0**
+**ubuntu18.04+cuda10.2+pytorch1.7.1**
 1. create environments
 ```
 conda env create -f install.yaml
