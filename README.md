@@ -1,6 +1,7 @@
 # TBRNet
-**a. The manuscript is under peer review...**
-**b. The code and model are being updated...**
+The manuscript is under peer review...
+
+<img src="https://github.com/nachifur/TBRNet/blob/main/img/f2.jpg"/>
 
 # 1. Resources
 
@@ -9,24 +10,28 @@
 * [ISTD](https://github.com/DeepInsight-PCALab/ST-CGAN)
 * [ISTD+DA, SRD+DA](https://github.com/vinthony/ghost-free-shadow-removal)
 
-## 1.2 Results (Updating)
-* Results on SRD: [TBRNet_SRD]()
-* Results on SRD+DA: [TBRNet_SRD_DA]()
-* Results on ISTD: [TBRNet_ISTD]()
-* Results on ISTD+DA: [TBRNet_ISTD_DA]()
+## 1.2 Results
+* Results on SRD: [TBRNet_SRD](https://mailustceducn-my.sharepoint.com/:u:/g/personal/nachifur_mail_ustc_edu_cn/EcjEGvbQLY5FhM_HTB0sGiwBzVGZgLJ0hOzvvLBZ9aHgSg?e=zMopUV)
+* Results on SRD+DA: [TBRNet_SRD_DA](https://mailustceducn-my.sharepoint.com/:u:/g/personal/nachifur_mail_ustc_edu_cn/ERZMY7pF1aJEtpGjPx4eMBQBAJF7YRJjaWkiaAFqZh7_xQ?e=Uhkc84)
+* Results on ISTD: [TBRNet_ISTD](https://mailustceducn-my.sharepoint.com/:u:/g/personal/nachifur_mail_ustc_edu_cn/Eand2fwdBplBnOi9DGCeyewBTDNTbR4H1gMkXUu6nB186g?e=N9iiX2)
+* Results on ISTD+DA: [TBRNet_ISTD_DA](https://mailustceducn-my.sharepoint.com/:u:/g/personal/nachifur_mail_ustc_edu_cn/ETavmK5QwspJiTUCgBuK3wABNR6T3bJBrdSFQE2Urp6Jgw?e=BnC1Pd)
+* Results on ISTD+: [TBRNet_ISTD+](https://mailustceducn-my.sharepoint.com/:u:/g/personal/nachifur_mail_ustc_edu_cn/EZssY3AcYnlKud00MPqANX8BYmikxY4WSyCFYAuTQkAXFA?e=i2HZQ8)
 
 *Visual comparison results of penumbra removal results on the SRD dataset* - (Powered by [MulimgViewer](https://github.com/nachifur/MulimgViewer))
 <img src="https://github.com/nachifur/TBRNet/blob/main/img/f1.jpg"/>
 
 
-## 1.3  Model Weight File for Test (Updating)
-* Model on SRD: [TBRNet_SRD.pth]()
-* Model on SRD+DA: [TBRNet_SRD_DA.pth]()
-* Model on ISTD: [TBRNet_ISTD.pth]()
-* Model on ISTD+DA: [TBRNet_ISTD_DA.pth]()
+## 1.3  Model Weight File for Test
+* Model on SRD: [TBRNet_SRD.pth](https://mailustceducn-my.sharepoint.com/:u:/g/personal/nachifur_mail_ustc_edu_cn/EfX-fgeSt-RGpq70XAwk8RYBdzB-dbXqi2snIgIbhCjCqg?e=byAji3)
+* Model on SRD+DA: [TBRNet_SRD_DA.pth](https://mailustceducn-my.sharepoint.com/:u:/g/personal/nachifur_mail_ustc_edu_cn/ET7oQhFbKNNKtSIz1i6247MBeF20MsWe8uyjqrpH6BkG4Q?e=l1F6mE)
+* Model on ISTD: [TBRNet_ISTD.pth](https://mailustceducn-my.sharepoint.com/:u:/g/personal/nachifur_mail_ustc_edu_cn/EW7n1zFH2FpBvjvfNC0mrcMB45n6aUocl81EhOokZDLMeA?e=409Tiu)
+* Model on ISTD+DA: [TBRNet_ISTD_DA.pth](https://mailustceducn-my.sharepoint.com/:u:/g/personal/nachifur_mail_ustc_edu_cn/EcNu1-1LnNFCjcvtbvv6JC0BILJh_-VDCn3iVKqv9wcROQ?e=pRAciZ)
+* Model on ISTD+: [TBRNet_ISTD+.pth](https://mailustceducn-my.sharepoint.com/:u:/g/personal/nachifur_mail_ustc_edu_cn/EU5yZC_FspZMoh-sJg_YWM4BG5rVLGS-Jl0KK0UkPJ14qw?e=MWLrHj)
 
 ## 1.4 Evaluation Code
-[Hieu Le](https://openaccess.thecvf.com/content_ICCV_2019/papers/Le_Shadow_Removal_via_Shadow_Image_Decomposition_ICCV_2019_paper.pdf) reuploaded the [evaluation code](https://github.com/cvlab-stonybrook/SID). Before that, everyone can obtain this code from [Jifeng Wang](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Stacked_Conditional_Generative_CVPR_2018_paper.pdf) via email. Currently, the MATLAB code is used in most state-of-the-art works for shadow removal. 
+1. MAE (i.e., RMSE in paper). [Hieu Le](https://openaccess.thecvf.com/content_ICCV_2019/papers/Le_Shadow_Removal_via_Shadow_Image_Decomposition_ICCV_2019_paper.pdf) reuploaded the [evaluation code](https://github.com/cvlab-stonybrook/SID). Before that, everyone can obtain this code from [Jifeng Wang](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Stacked_Conditional_Generative_CVPR_2018_paper.pdf) via email. Currently, the MATLAB code is used in most state-of-the-art works for shadow removal.
+
+2. PSNR+SSIM. [zhu_aaai2022](https://github.com/zhuyr97/AAAI2022_Unfolding_Network_Shadow_Removal)
 
 # 2. Environments
 **ubuntu18.04+cuda10.2+pytorch1.7.0**
