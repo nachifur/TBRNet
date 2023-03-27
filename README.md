@@ -6,7 +6,7 @@ The manuscript is under peer review...
 # 1. Resources
 
 ## 1.1 Dataset
-* SRD (Please email Jiandong Tian(tianjd@sia.cn) or click the link ([DeShadowNet](https://github.com/Liangqiong/DeShadowNet)).)
+* [SRD](https://github.com/Liangqiong/DeShadowNet)
 * [ISTD](https://github.com/DeepInsight-PCALab/ST-CGAN)
 * [ISTD+DA, SRD+DA](https://github.com/vinthony/ghost-free-shadow-removal)
 
