@@ -170,7 +170,7 @@ Output:
 ```
 running rmse-shadow: xxx, rmse-non-shadow: xxx, rmse-all: xxx # ISRD
 ```
-This is the evaluation result of python+pytorch, which is only used during training. To get the evaluation results in the paper, you need to run the [matlab code](#1.4).
+This is the evaluation result of python+pytorch, which is only used during training. To get the evaluation results in the paper, you need to run the [matlab code](#14-evaluation-code).
 
 # 5. Acknowledgements
 Part of the code is based upon:
