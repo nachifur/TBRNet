@@ -1,5 +1,4 @@
 # TBRNet
-The manuscript is under peer review...
 
 <img src="https://github.com/nachifur/TBRNet/blob/main/img/f2.jpg"/>
 
