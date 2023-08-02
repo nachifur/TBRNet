@@ -180,7 +180,16 @@ Part of the code is based upon:
 # 6. Citation
 If you find our work useful in your research, please consider citing:
 ```
-The manuscript is under peer review.
+@ARTICLE{liu2023shadow,
+  author={Liu, Jiawei and Wang, Qiang and Fan, Huijie and Tian, Jiandong and Tang, Yandong},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={A Shadow Imaging Bilinear Model and Three-Branch Residual Network for Shadow Removal}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-15},
+  doi={10.1109/TNNLS.2023.3290078}
+}
 ```
 # 7. Contact
 Please contact Jiawei Liu if there is any question (liujiawei18@mails.ucas.ac.cn).
