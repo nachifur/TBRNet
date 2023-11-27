@@ -49,7 +49,7 @@ For example, generate the dataset list of ISTD:
    * ISTD and SRD
    * [USR shadowfree images](https://github.com/xw-hu/Mask-ShadowGAN)
    * [Syn. Shadow](https://github.com/vinthony/ghost-free-shadow-removal)
-   * [SRD shadow mask](https://github.com/vinthony/ghost-free-shadow-removal)
+   * [SRD shadow mask](https://github.com/vinthony/ghost-free-shadow-removal) (or try our [re-uploaded link](https://mailustceducn-my.sharepoint.com/:u:/g/personal/nachifur_mail_ustc_edu_cn/Efi0tTOuIeJDj_s0FhYh2tUBbJkkGtjQY_PXIBgjanr-dg?e=0HZTnx))
    * train_B_ISTD:
    ```
    cp -r ISTD_Dataset_arg/train_B ISTD_Dataset_arg/train_B_ISTD
