@@ -182,14 +182,15 @@ Part of the code is based upon:
 # 6. Citation
 If you find our work useful in your research, please consider citing:
 ```
-@ARTICLE{liu2023shadow,
+@ARTICLE{liu2024shadow,
   author={Liu, Jiawei and Wang, Qiang and Fan, Huijie and Tian, Jiandong and Tang, Yandong},
   journal={IEEE Transactions on Neural Networks and Learning Systems}, 
   title={A Shadow Imaging Bilinear Model and Three-Branch Residual Network for Shadow Removal}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-15},
+  year={2024},
+  volume={35},
+  number={11},
+  pages={15857-15871},
+  keywords={Lighting;Imaging;Pipelines;Attenuation;Atmospheric modeling;Task analysis;Estimation;Deep neural network;illumination compensation;multitask learning;shadow imaging model;shadow removal},
   doi={10.1109/TNNLS.2023.3290078}
 }
 ```
